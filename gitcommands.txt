@@ -1,0 +1,11 @@
+List of my commmands
+
+git add -all
+
+git reset HEAD <filename>
+
+git commit -a -m "message"
+
+git checkout -- <filename>
+
+git commit -a -m <filename>
